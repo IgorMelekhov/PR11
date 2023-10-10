@@ -1,0 +1,8 @@
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR11\bin\Debug\PR11.exe.config
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR11\bin\Debug\PR11.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR11\bin\Debug\PR11.pdb
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR11\obj\Debug\PR11.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR11\obj\Debug\PR11.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR11\obj\Debug\PR11.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR11\obj\Debug\PR11.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR11\obj\Debug\PR11.pdb
